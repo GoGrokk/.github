@@ -2,7 +2,7 @@ GoGrokk
 
 Is a plug-and-play framework for Golang inspired by NestJs
 
-- Web framwwork
+- Web framework
 - Microservice
   - Http
   - Websocket
